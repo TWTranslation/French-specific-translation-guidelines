@@ -1,0 +1,1 @@
+# French-specific-translation-guidelines
